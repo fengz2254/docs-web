@@ -1,0 +1,8 @@
+{
+  "name": "魔果云课文档中心 (Redesign)",
+  "description": "A polished, modern documentation site redesign focusing on typography, whitespace, and professional SaaS aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
